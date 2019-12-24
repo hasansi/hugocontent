@@ -29,19 +29,5 @@ hugo -d ~/hasansi.github.io
 
 	
 # Go To username folder
-cd ~/hasansi.github.io &&
-
-# Add changes to git.
-git add .
-
-&&
-# Commit changes.
-msg="rebuilding site $(date)"
-if [ -n "$*" ]; then
-		msg="$*"
-	fi
-	git commit -m "$msg"
-
-	# Push source and build repos.
-	git push origin master
+cd ~/hasansi.github.io && git add . && git commit -m "changes" && git push origin master
 
