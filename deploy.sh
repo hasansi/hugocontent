@@ -25,6 +25,9 @@ if [ -n "$*" ]; then
 	git push origin master
 
 
+hugo -d ~/hasansi.github.io
+
+	
 # Go To username folder
 cd ~/hasansi.github.io
 
