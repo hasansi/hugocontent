@@ -1,7 +1,7 @@
 ---
 title: "Clustering"
 draft: false
-showthedate: false
+showthedate = false
 ---
 # Clustering Project 
 
