@@ -1,6 +1,6 @@
 ---
-title:"Clustering"
-draft:"false"
+title: "Clustering"
+draft: false
 ---
 # Clustering Project 
 
