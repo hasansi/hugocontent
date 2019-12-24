@@ -1,5 +1,5 @@
 ---
-title: "Linear Regression"
+title: "Logistic Regression"
 draft: false
 ---
 # Logistic Regression 
