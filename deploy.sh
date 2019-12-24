@@ -41,4 +41,3 @@ if [ -n "$*" ]; then
 	# Push source and build repos.
 	git push origin master
 
-cd ~/hugocontent
