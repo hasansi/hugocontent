@@ -29,11 +29,12 @@ hugo -d ~/hasansi.github.io
 
 	
 # Go To username folder
-cd ~/hasansi.github.io
+cd ~/hasansi.github.io &&
 
 # Add changes to git.
 git add .
 
+&&
 # Commit changes.
 msg="rebuilding site $(date)"
 if [ -n "$*" ]; then
