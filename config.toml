@@ -75,7 +75,7 @@ pygmentscodefencesguesssyntax = true
             [[languages.en.menu.main]]
             name = "About"
             weight = 1
-            url = "about/"
+            url = "./"#"about/"
 
             [[languages.en.menu.main]]
             name = "Projects"
@@ -85,10 +85,10 @@ pygmentscodefencesguesssyntax = true
  [[languages.en.menu.main]]
             name = "Industries"
             weight = 3
-            url = "posts/"
+            url = ""#"industries/"
 
             [[languages.en.menu.main]]
             name = "Contact me"
             weight = 5
-            url = "contact/"
+            url ="./"# "contact/"
 
