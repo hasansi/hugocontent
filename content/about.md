@@ -4,7 +4,7 @@ draft: false
 ---
 
 
-<center>***SYED HASAN***</center>
+<center>*SYED HASAN*</center>
 
 859-230-1713  [hasan@hasanai.com](mailto:hasan@hasanai.com) [https://www.linkedin.com/in/hasansi](https://www.linkedin.com/in/hasansi/)  [https://github.com/hasansi](https://github.com/hasansi)
 
