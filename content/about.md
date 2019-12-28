@@ -16,7 +16,7 @@ draft: false
 
 2017–2018:Udacity **Nanodegree** in Data Science
 
-2007–2016:UniversityofKentucky**PhD. (ABD)**inPhysics
+2007–2016:University of Kentucky**PhD. (ABD)**inPhysics
 
 - Performed regression analysis on radioactive source data from silicon detectors using Python and Root, for detector calibrations at the Los Alamos National Lab.
 - Set up, calibrated, modified instrumentation for and performed the UCNB (Ultra Cold Neutron B) experiment, that resulted in improved position sensitivity, noise to signal ratio, resolution, fast timing of the detector system.
