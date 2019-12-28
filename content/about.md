@@ -4,7 +4,7 @@ draft: false
 ---
 
 
-<center>*SYED HASAN*</center>
+<center>**SYED HASAN**</center>
 
 859-230-1713  [hasan@hasanai.com](mailto:hasan@hasanai.com) [https://www.linkedin.com/in/hasansi](https://www.linkedin.com/in/hasansi/)  [https://github.com/hasansi](https://github.com/hasansi)
 
@@ -29,7 +29,7 @@ draft: false
 
 ## EXPERIENCE
 
-2019-Present: **Data Science Consultant,** [https://www.hasanai.com](https://www.hasanai.com/)
+2019-Present: **Data Science Consultant**, [https://www.hasanai.com](https://www.hasanai.com/)
 
 - Predicted the fraction of client&#39;s customer loan that would be delinquent by the end of the loan term, using polynomial regression with a mean squared error of 2.4e-8.
 - Classified client&#39;s customer churn, using logistic regression in MLlib and PySpark.
